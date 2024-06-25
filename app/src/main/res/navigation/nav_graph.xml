@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/firstFragment">
+
+    <fragment
+        android:id="@+id/firstFragment"
+        android:name="com.sushydev.article_r_code.CreationArticle"
+        android:label="First Fragment"
+        tools:layout="@layout/creation_article" />
+
+    <fragment
+        android:id="@+id/secondFragment"
+        android:name="com.sushydev.article_r_code.LecteurArticle"
+        android:label="Second Fragment"
+        tools:layout="@layout/lecture_article" />
+
+</navigation>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815593155221",
+    "project_id": "articlercode",
+    "storage_bucket": "articlercode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815593155221:android:ab818ad1f1c1219600499c",
+        "android_client_info": {
+          "package_name": "com.sushydev.article_r_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7Jwf_5oyCNVs20u8U6T4hKmB_uhapJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
